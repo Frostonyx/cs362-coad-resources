@@ -123,3 +123,4 @@ RSpec.describe OrganizationsController, type: :controller do
       expect(assigns(:organization)).not_to be_nil
     end
   end
+end
